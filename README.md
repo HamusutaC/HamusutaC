@@ -9,8 +9,8 @@ If you're interested in my projects or would like to know more about me, feel fr
 ### 🚀 Technologies I use:
 - **Languages**: JavaScript, HTML5, CSS3, SQL, Python.
 - **Frameworks**: React, Node.js, Next.js, Angular, Docker.
-- **Bases de datos**: MySQL, PostgreSQL
-- **Herramientas de desarrollo**: Git, VSCode, Figma.
+- **Databases**: MySQL, PostgreSQL
+- **Dev Tools**: Git, VSCode, Figma.
 
 ### Languages I can communicate with:
 - **English**: Fluent 
