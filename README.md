@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a developer passionate about  **Web development** and **AI** .
 
-I recently graduated from college and am currently seeking job opportunities where I can continue to learn and grow. I’m highly motivated, continuously expanding my knowledge through technical tests and projects to stay up to date with the latest technologies, while gaining practical experience. 
+I recently graduated from university and currently seeking job opportunities where I can continue to learn and grow. I’m highly motivated, continuously expanding my knowledge through technical tests and projects to stay up to date with the latest technologies, while gaining practical experience. 
 If you're interested in my projects or would like to know more about me, feel free to contact me. 
 
 
